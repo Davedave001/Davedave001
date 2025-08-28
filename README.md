@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Otieno</h1>
-<h3 align="center">I’m a solution architect, project manager, and technical lead specializing in the development and deployment of enterprise-grade blockchain and AI products across banking, retail, and supply chain sectors. As CEO of Chaintum and Head of Research at Blockchain Research of Kenya, I bridge the gap between innovation and real-world implementation—leading teams that design, build, and scale market-ready digital solutions for Africa's most pressing socio-economic challenges.</h3>
+<h3 align="center">I’m a solution architect, project manager, and technical lead specializing in the development and deployment of enterprise-grade blockchain and AI products across banking, retail, and supply chain sectors.</h3>
 
 - 📝 I regularly write articles on [chaintum.io](chaintum.io)
 
@@ -9,8 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@blockmatata_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@blockmatata_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/david otieno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david otieno" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
