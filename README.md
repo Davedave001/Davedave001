@@ -37,14 +37,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (with private commits)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davedave001&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="davedave001" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davedave001&show_icons=true&locale=en&layout=compact&count_private=true&include_all_commits=true&theme=radical" alt="davedave001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davedave001&show_icons=true&locale=en&count_private=true&theme=radical" alt="davedave001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davedave001&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=radical" alt="davedave001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davedave001&theme=radical" alt="davedave001" /></p>
 
 ---
 
-<p align="center">✨ Generated dynamically with GitHub Readme Stats ✨</p>
+<p align="center">✨ Now showing commits from both public and private repositories ✨</p>
