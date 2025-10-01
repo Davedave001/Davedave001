@@ -6,10 +6,12 @@
 
 ---
 
-### ✍️ Writing & Research
+### ✍️ Project Management and Solution Architect
 
 * Regular contributor at [chaintum.io](https://chaintum.io), exploring blockchain and AI adoption across Africa.
-* Experienced in producing research reports, whitepapers, and technical documentation for stakeholders and enterprises.
+* Experienced in development and deployment of enterprise-grade blockchain and AI products across banking, retail, and supply chain sectors. I bridge the gap between innovation and real-world implementation—leading teams that design, build, and scale market-ready digital solutions.
+
+With a strong foundation as a blockchain and AI developer, I lead full-cycle product innovation—from strategy and system design to deployment and market alignment. My work sits at the intersection of deep tech and impact, unlocking new efficiencies in governance, trade, telecommunications, and public service delivery.
 
 ### 💡 What I Do
 
@@ -50,4 +52,4 @@
 
 ---
 
-<p align="center">Crafting impactful blockchain & AI solutions • Head of Research @ Chaintum Research</p>
+<p align="center">Crafting impactful blockchain & AI solutions </p>
