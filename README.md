@@ -1,4 +1,3 @@
-# Hi, I'm David O. Weiss
 
 **AI Engineer | Support AI Researcher | Agentic Systems | RAG | LLMs | Model Training | Model Evaluation**
 
