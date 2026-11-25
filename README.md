@@ -1,7 +1,7 @@
 
 **AI Engineer | Support AI Researcher | Agentic Systems | RAG | LLMs | Model Training | Model Evaluation**
 
-I build production-grade agentic systems: durable agent runtimes, memory infrastructure, retrieval pipelines, and the evaluation tooling that keeps them reliable. Based in Nairobi, Kenya.
+I build production-grade agentic systems: durable agent runtimes, memory infrastructure, retrieval pipelines, and the evaluation tooling that keeps them reliable.
 
 ---
 
