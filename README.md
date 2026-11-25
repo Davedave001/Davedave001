@@ -26,4 +26,4 @@ I build production-grade agentic systems: durable agent runtimes, memory infrast
 ---
 
 ## Connect
-- Email: [omondidavid271@gmail.com](mailto:omondidavid271@gmail.com)
+- Email: [davido.weiss059@gmail.com](mailto:davido.weiss059@gmail.com)
