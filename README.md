@@ -26,6 +26,4 @@ I build production-grade agentic systems: durable agent runtimes, memory infrast
 ---
 
 ## Connect
-
-- LinkedIn: [david-otieno](https://www.linkedin.com/in/david-otieno-2a7450160/)
 - Email: [omondidavid271@gmail.com](mailto:omondidavid271@gmail.com)
