@@ -16,21 +16,6 @@ I build production-grade agentic systems: durable agent runtimes, memory infrast
 
 ---
 
-## Agentic Runtime Lab
-
-A set of connected projects for building and evaluating production AI agents:
-
-| Project | Description |
-|---|---|
-| [axiom-runtime](https://github.com/Davedave001/axiom-runtime) | Stateful agent execution engine with durable checkpointing, idempotent tool execution, policy gates, and observability |
-| [agent-memory-service](https://github.com/Davedave001/agent-memory-service) | Standalone episodic and semantic memory infrastructure for production agents |
-| [agent-evaluation-lab](https://github.com/Davedave001/agent-evaluation-lab) | 100-scenario agent benchmark suite, trajectory scorer, and failure taxonomy classifier |
-| [voice-agent-capstone](https://github.com/Davedave001/voice-agent-capstone) | Real-time voice agent integrating the runtime, memory service, and evaluation lab |
-| [agent-web-console](https://github.com/Davedave001/agent-web-console) | Web console for inspecting and operating agents |
-| [engineering-notes](https://github.com/Davedave001/engineering-notes) | Architecture Decision Records and systems notes for production AI agents |
-
----
-
 ## Stack
 
 - **AI / Agents:** LangGraph, LangChain, LlamaIndex, MCP, LangSmith, Hugging Face
