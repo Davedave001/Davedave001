@@ -1,4 +1,4 @@
-# Hi there, I'm David Otieno 👋
+# Hi there, I'm David O. Weiss 👋
 
 <div align="center">
 
